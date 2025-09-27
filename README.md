@@ -6,5 +6,6 @@
 ![Environment](https://img.shields.io/badge/Environment-Ubuntu%2022.04-yellow)
 
 ### 📂 [Week 0](https://github.com/Adithyan8833/vsdRiscv/tree/main/Week0)
+### 📂 [Week 1](https://github.com/Adithyan8833/vsdRiscv/tree/main/Week1)
 
 
