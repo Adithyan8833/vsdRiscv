@@ -19,6 +19,10 @@ iverilog good_mux.v tb_good_mux.v
 # To view the waveform in GTKWave
 gtkwave tb_good_mux.vcd
 ```
+#### GTKWAVE
+
+<img width="958" height="733" alt="gtkwave" src="https://github.com/user-attachments/assets/b3fe8f33-c5b1-456e-a9af-cf4e9493cb1d" />
+
 
 
 
