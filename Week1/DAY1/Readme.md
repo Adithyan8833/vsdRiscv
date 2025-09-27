@@ -31,3 +31,6 @@ gtkwave tb_good_mux.vcd
 ### 🧠 **1.Open source Simulator iverilog**
 
 ### 🧠 **2.Lab using Yosys Sky 130 PDKs**
+
+<img width="940" height="539" alt="Screenshot from 2025-09-27 21-17-11" src="https://github.com/user-attachments/assets/04a3721f-561e-4a16-ae8c-86d72c2b09a8" />
+
